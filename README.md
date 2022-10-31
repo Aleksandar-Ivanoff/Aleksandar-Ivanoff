@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandar Ivanov</h1>
-<h3 align="center">A passionate .Net developer student from Bulgaria</h3>
+<h3 align="center">A passionate .Net developer from Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandar-ivanoff&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandar-ivanoff" /> </p>
 
